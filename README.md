@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 I'm Devansh Gupta
+Full Stack Developer | React | Node.js | JavaScript
 
 <!--
 **Devanshrocks4/Devanshrocks4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
