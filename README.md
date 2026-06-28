@@ -374,6 +374,8 @@ src="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github
 # 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Devanshrocks4/SkillSnap/pull/1) in [Devanshrocks4/SkillSnap](https://github.com/Devanshrocks4/SkillSnap)
+2. 💪 Opened PR [#1](https://github.com/Devanshrocks4/SkillSnap/pull/1) in [Devanshrocks4/SkillSnap](https://github.com/Devanshrocks4/SkillSnap)
 <!--END_SECTION:activity-->
 <br>
 
