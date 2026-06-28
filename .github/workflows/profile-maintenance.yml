@@ -1,4 +1,3 @@
-
 name: Profile Maintenance
 
 on:
@@ -10,21 +9,27 @@ permissions:
   contents: write
 
 jobs:
+
   snake:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Devanshrocks4
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -34,13 +39,16 @@ jobs:
 
   activity:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
 
-      - name: Update Recent Activity
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
