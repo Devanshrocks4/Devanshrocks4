@@ -1,41 +1,47 @@
 name: Profile Maintenance
+# name: Generate Snake Animation
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-
-  snake:
+  generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
+    timeout-minutes: 10
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Devanshrocks4
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Snake to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "🤖 Update contribution snake [skip ci]"
 
   activity:
     runs-on: ubuntu-latest
