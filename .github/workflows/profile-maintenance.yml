@@ -1,5 +1,5 @@
-name: Profile Maintenance
-# name: Generate Snake Animation
+# name: Profile Maintenance
+name: Generate Snake Animation
 
 on:
   workflow_dispatch:
