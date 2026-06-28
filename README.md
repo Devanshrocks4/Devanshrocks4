@@ -322,32 +322,58 @@ Front-Desk Client → Flask REST API → Priority Queue Logic → Doctor Schedul
 
 ---
 
-## GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devanshrocks4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshrocks4&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshrocks4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshrocks4&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
+
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake-dark.svg"/>
+
+<i>Code • Commit • Learn • Repeat 🚀</i>
+
 </p>
 
-**Recent Activity**
+---
+
+# 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-<!-- Requires a one-time GitHub Action (snake.yml) in this repo to create the "output" branch. Until that workflow has run once, the image above will be broken. -->
-
-**Recent Activity**
-<!--START_SECTION:activity-->
-<!-- Requires a one-time GitHub Action (activity.yml) in this repo. Until it runs once, this section stays empty. -->
-<!--END_SECTION:activity-->
-
 <br>
 
 ---
