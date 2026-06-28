@@ -1,130 +1,150 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Devansh Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | React • JavaScript • PHP</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Product Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Building+Modern+Web+Apps;Open+Source+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Product+Engineer;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+Scalable+AI+Products;TCS+Selected&center=true&width=500&height=45&vCenter=true">
+</p>
+
+<p align="center">
+  <a href="https://devanshgupta.netlify.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/devansh-gupta-559107255">LinkedIn</a> ·
+  <a href="https://mindeasewell.netlify.app/">MindEase</a> ·
+  <a href="https://fluentvoices.pages.dev/">Fluent Voices</a>
 </p>
 
 ---
 
 # 💫 About Me:
 
-Driven and versatile **Full Stack Developer** passionate about building scalable and modern web applications.
+Driven and versatile full-stack developer focused on creating high-performance web systems and conversational AI integrations.
 
-I specialize in **React, JavaScript, PHP, and backend integrations**, focusing on creating responsive and high-performance user experiences.
+I specialize in **React, TypeScript, Node.js, and MongoDB**, engineering systems from database schemas up to responsive deployment stacks.
 
-💡 I enjoy transforming ideas into real-world applications while continuously learning new technologies and improving my problem-solving skills.
-
-✨ **Key Highlights**
-
-* 🚀 Building full stack web applications
-* 💻 Skilled in modern frontend and backend technologies
-* 📚 Constantly learning new tools and frameworks
-* 🎯 Focused on creating impactful digital products
+* 🛠️ **Current Focus:** Building full stack products end-to-end — frontend, backend, auth, and deployment.
+* 🤖 **AI Architectures:** Integrating AI (Google Gemini) into real, working production applications.
+* 🎯 **Status:** TCS Ninja Selected — open to SDE opportunities.
+* 📦 **Product Standard:** Shipping projects with structural engineering depth, not tutorial-grade boilerplate.
 
 ---
 
-# 🌐 Socials:
+# 🌐 Socials & Gateways:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/devanshgupta_dev_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/devansh-gupta-559107255)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge\&logo=Quora\&logoColor=white)](https://quora.com/profile/Devansh-Gupta-722)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge\&logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/20869691)
-
----
-
-# 💻 Tech Stack:
-
-### 🚀 Languages & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,c,cpp,bootstrap,angular"/>
-</p>
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma"/>
+<p align="left">
+  <a href="https://linkedin.com/in/devansh-gupta-559107255" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20869691" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="mailto:devanshgupta923@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💻 Tech Stack Kernel:
 
-<p align="center">
+### 🚀 Languages & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind,java,php,c,cpp,bootstrap,angular" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshrocks4&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🗄 Backend, Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshrocks4&theme=tokyonight&hide_border=true"/>
+### ⚙️ Engineering Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux" />
+</p>
 
+### 📡 Active Network Protocols & Targets
+<p align="left">
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white">
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📂 Production Application Matrix
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[MindEase](https://github.com/Devanshrocks4/MindEase)** | AI-powered mental wellness platform supporting real-time chat sync, contextual metrics assessments, and stateful socket connections. | React · Express · Firebase · Gemini AI · Socket.IO · MongoDB |
+| **[DynoGix](https://github.com/Devanshrocks4/DynoGix)** | Full Stack Enterprise Operations Platform engineered with granular Role-Based Access Control (RBAC), multi-tier workflows, and asset auditing engines. | React · Node.js · Express · MongoDB · Tailwind CSS |
+| **[SkillSnap](https://github.com/Devanshrocks4/SkillSnap)** | High-speed rapid flow application managing custom, automated NoSQL database streaming document patterns. | React · Firebase Firestore · Tailwind CSS |
+| **[Fluent Voices](https://github.com/Devanshrocks4/FluentVoices)** | Complete digital modernization migrating legacy assets into optimized server-side rendering architecture layout. | Astro · TypeScript · React · Netlify · Cloudflare |
+| **[Portfolio](https://github.com/Devanshrocks4)** | Central clean terminal dashboard system featuring metrics analytics integration hooks. | React · Tailwind CSS · Netlify |
+| **Medoc Assignment** | Core structural platform implementation optimized against production delivery parameters. | Node.js · Express · MongoDB |
+
+---
+
+# 🏆 Key Achievements & Milestones
+
+* 🥇 **TCS Ninja Selected** – Secured technical placement role via competitive assessment pipelines.
+* 🚀 **Shipped 5+ Full Stack Production Projects** – Engineered and managed deployments from concept directly to live cloud clusters.
+* 🤖 **End-to-End AI Integration** – Architected stateful contextual memory layers feeding Google Gemini model execution pipelines.
+
+---
+
+# 📚 Engineering Focus Tracks
+
+* 🌐 High-availability system design patterns for backend architectures.
+* 🗄 Document schema design optimization, write aggregation, and database index tuning.
+* ⚙️ Production CI/CD automation pipelines and static application optimization hooks.
+
+---
+
+# 📊 GitHub Metrics & Engine Telemetry
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Devanshrocks4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshrocks4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshrocks4&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 🏆 Core Language Matrix
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshrocks4&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devanshrocks4&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshrocks4&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devanshrocks4&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Analytics Grid
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshrocks4&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshrocks4&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshrocks4&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshrocks4&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 System Benchmarks
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshrocks4&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshrocks4&theme=tokyonight"/>
 </p>
-🐍 Contribution Snake (Animated)
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
 ---
 
+# 🐍 Execution Sequence Grid (Contribution Snake)
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Devanshrocks4&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 
+Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/devansh-gupta-559107255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://devanshgupta.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Devanshrocks4&label=Profile%20Views&color=2D9CDB&style=for-the-badge"/> </p>
