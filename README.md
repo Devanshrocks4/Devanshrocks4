@@ -311,12 +311,15 @@ Front-Desk Client → Flask REST API → Priority Queue Logic → Doctor Schedul
 
 ## 🚀 Currently Building
 
-| Project | Focus | Status |
-|---|---|---|
-| MindEase v2 | Next iteration of the AI wellness platform | 🟢 In Progress |
-| DynoGix | Expanding asset & issue management features | 🟢 In Progress |
-| Java + Spring Boot Backend | REST APIs & service-layer patterns | 📘 Learning |
-| DSA in Java | Problem-solving fundamentals | 📘 Learning |
+| Project | Focus | Status | Progress |
+|---|---|---|----|
+| MindEase v2 | Next iteration of the AI wellness platform | 🟢 In Progress | █████████░ 90% |
+| DynoGix | Expanding asset & issue management features | 🟢 In Progress | ████████░░ 80% |
+| Java + Spring Boot Backend | REST APIs & service-layer patterns | 📘 Learning | ████░░░░░░ 40% |
+| DSA in Java | Problem-solving fundamentals | 📘 Learning | █████░░░░░ 50% |
+
+
+---
 
 <br>
 
@@ -334,7 +337,7 @@ Front-Desk Client → Flask REST API → Priority Queue Logic → Doctor Schedul
 
 <p align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshrocks4&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -346,16 +349,14 @@ Front-Desk Client → Flask REST API → Priority Queue Logic → Doctor Schedul
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
+<source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake-dark.svg">
 
-<source
-media="(prefers-color-scheme: light)"
+<source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake.svg">
 
-<img
-alt="GitHub Contribution Snake"
+<img width="100%"
+alt="Contribution Snake"
 src="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github-contribution-grid-snake-dark.svg">
 
 </picture>
@@ -364,7 +365,7 @@ src="https://raw.githubusercontent.com/Devanshrocks4/Devanshrocks4/output/github
 
 <p align="center">
 
-<i>Code • Commit • Learn • Repeat 🚀</i>
+<i>Code • Build • Learn • Repeat 🚀</i>
 
 </p>
 
